@@ -1,0 +1,6 @@
+"CFBundleDisplayName" = "LocalAuth";
+"NSCameraUsageDescription" = "QRコードをスキャンしてトークンをインポート";
+"NSFaceIDUsageDescription" = "Face IDを使用してトークンを表示する";
+"NSLocalNetworkUsageDescription" = "トークンデータをLAN内の他のデバイスと同期する";
+"NSPhotoLibraryUsageDescription" = "スクリーンショットからトークンキーを特定して抽出する";
+"NFCReaderUsageDescription" = "NFCを介してハードウェアキーと通信し、シークレットトークンのロックを解除します";

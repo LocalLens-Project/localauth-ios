@@ -1,0 +1,8 @@
+.DS_Store
+*.xcuserstate
+
+DerivedData/
+.build/
+
+localauth.xcodeproj/xcuserdata/
+localauth.xcodeproj/project.xcworkspace/xcuserdata/

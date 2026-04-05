@@ -1,0 +1,6 @@
+"CFBundleDisplayName" = "独揽令牌";
+"NSCameraUsageDescription" = "扫描二维码以导入令牌";
+"NSFaceIDUsageDescription" = "使用面容 ID来查看您的令牌";
+"NSLocalNetworkUsageDescription" = "在局域网内与其他设备同步令牌数据";
+"NSPhotoLibraryUsageDescription" = "从截图中识别并提取令牌密钥";
+"NFCReaderUsageDescription" = "通过 NFC 与硬件密钥通信以解锁机密令牌";

@@ -1,0 +1,6 @@
+"CFBundleDisplayName" = "獨攬令牌";
+"NSCameraUsageDescription" = "掃描 QR Code 以匯入權杖";
+"NSFaceIDUsageDescription" = "使用 Face ID 來檢視您的權杖";
+"NSLocalNetworkUsageDescription" = "在區域網路內與其他裝置同步權杖資料";
+"NSPhotoLibraryUsageDescription" = "從截圖中辨識並擷取權杖密鑰";
+"NFCReaderUsageDescription" = "透過 NFC 與硬體金鑰通訊以解鎖機密權杖";

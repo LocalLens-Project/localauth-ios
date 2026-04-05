@@ -1,0 +1,6 @@
+"CFBundleDisplayName" = "LocalAuth";
+"NSCameraUsageDescription" = "Escanea códigos QR para importar tokens";
+"NSFaceIDUsageDescription" = "Usa Face ID para ver tus tokens";
+"NSLocalNetworkUsageDescription" = "Sincroniza los datos de tokens con dispositivos cercanos en tu red local";
+"NSPhotoLibraryUsageDescription" = "Reconoce y extrae secretos de tokens desde capturas de pantalla";
+"NFCReaderUsageDescription" = "Usa NFC para comunicarte con tu llave de hardware y desbloquear tokens confidenciales";
